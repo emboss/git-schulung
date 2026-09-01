@@ -4,3 +4,6 @@ Ein Beispiel für --amend: Das hier hat noch gefehlt.
 lalalalla
 
 Commit auf dem Server
+
+
+Noch eine Änderung
