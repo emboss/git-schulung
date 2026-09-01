@@ -3,7 +3,7 @@ Ein Beispiel für --amend: Das hier hat noch gefehlt.
 lalalalla
 
 Commit hier auf dem Server
-
+Bugfix gemacht
 asdfdsafdsa
 
 Martin ändert a.txt
