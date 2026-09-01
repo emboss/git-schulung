@@ -6,7 +6,6 @@ Commit hier auf dem Server
 Bugfix gemacht
 asdfdsafdsa
 
-<<<<<<< HEAD
 Martin ändert a.txt
 
 Müülllll
@@ -16,4 +15,4 @@ Server neuer Commit
 
 
 TK: Erst ziehen, dann drücken!!!
->>>>>>> 00c202c (Ich habe hier was eingefügt.)
+
