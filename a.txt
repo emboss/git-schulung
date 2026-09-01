@@ -1,4 +1,7 @@
 A.txt
+
+hier eine 0815 Änderung 
+
 asdfadsfdsaf
 Ein Beispiel für --amend: Das hier hat noch gefehlt.
 lalalalla
