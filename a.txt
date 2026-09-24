@@ -1,7 +1,7 @@
 A.txt
 Ein Beispiel für --amend: Das hier hat noch gefehlt.
 lalalalla
-
+Leerzeile
 Commit hier auf dem Server
 Bugfix gemacht
 asdfdsafdsa
