@@ -6,6 +6,7 @@ Commit hier auf dem Server
 Bugfix gemacht
 asdfdsafdsa
 User Links erster Commit
+User Rechts erster Commit
 Martin ändert a.txt
 
 Müülllll
