@@ -1,5 +1,9 @@
 C.txt neu eingeführt
 Commit bei GitHub
 Und noch einer
+<<<<<<< HEAD
 Tag 3, fertig \o/
 Hier knallt es gleich:
+=======
+c für conflict
+>>>>>>> 1f7a5a9 (Konflikt!)
